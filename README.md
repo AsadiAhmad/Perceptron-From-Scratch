@@ -9,3 +9,7 @@ Implementing linear Perseptron model from scratch with exporting model and Early
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"  title="MatPlotLib" alt="MatPlotLib" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"  title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
 </div>
+
+## License
+
+This project is licensed under the MIT License.
